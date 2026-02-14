@@ -27,12 +27,12 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheAti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="TheAti1's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheAti1&show_icons=true&theme=tokyonight&hide_border=true" alt="TheAti1's GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAti1&theme=tokyonight&hide_border=true&background=00000000" alt="TheAti1's GitHub streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAti1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 
 </div>
